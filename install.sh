@@ -14,6 +14,7 @@ brew install --cask fork
 brew install --cask coconutbattery
 brew install --cask dropbox
 brew install --cask google-chrome
+brew install --cask discord
 
 
 # Fonts via Brew…
