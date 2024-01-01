@@ -19,12 +19,17 @@ brew install --cask discord
 
 # Fonts via Brew…
 brew install --cask homebrew/cask-fonts/font-cascadia-code
+
+brew install --cask font-agave-nerd-font
+brew install --cask font-anonymous-pro
+brew install --cask font-b612 font-b612-mono
 brew install --cask font-fantasque-sans-mono-nerd-font
 brew install --cask font-ibm-plex-mono
 brew install --cask font-iosevka-nerd-font
 brew install --cask font-monocraft
 brew install --cask font-proggy-clean-tt-nerd-font
 brew install --cask font-space-mono-nerd-font
+brew install --cask font-terminus
 brew install --cask font-ubuntu-mono-nerd-font
 brew install --cask font-victor-mono-nerd-font
 
